@@ -3,15 +3,13 @@ fun main(args: Array<String>) {
     println(studentname)
     var age =20
     println(age)
-    var phonenumber: Long = 256758185675
+    var phonenumber = 256758185675
     println(phonenumber)
-    var weight: String= "40kg"
+    var weight = 40F
     println(weight)
     val iskenyan: Boolean= true
     val isnotkenyan: Boolean= false
     println(iskenyan) //output true if kenyan
     println(isnotkenyan) //output false for non kenyan
-
-
 
 }
